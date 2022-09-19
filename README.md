@@ -15,3 +15,9 @@ Menggunakan widget transform untuk mengubah scale, offset, translation.
 ![gif](images/02.gif)
 
 Menambahkan parameter setentry untuk merubah prespective.
+
+### Perspective Interaction
+
+![gif](images/03.gif)
+
+Menambahkan gesture detector untuk merubah nilai offset menggunakan setstate.
