@@ -21,3 +21,9 @@ Menambahkan parameter setentry untuk merubah prespective.
 ![gif](images/03.gif)
 
 Menambahkan gesture detector untuk merubah nilai offset menggunakan setstate.
+
+### Flip
+
+![gif](images/04.gif)
+
+Flip menggunkan animasi, clip, react, dan transform
