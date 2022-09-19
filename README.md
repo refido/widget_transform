@@ -1,16 +1,9 @@
 # widget_transform
 
-A new Flutter project.
+Mengkustomisasi widget dan animasi
 
-## Getting Started
+## Hasil
 
-This project is a starting point for a Flutter application.
+![image](images/01.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+semua user dapat saling mengirim pesan dan membaca pesan dan memilih tombol ya dan tidak
